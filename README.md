@@ -7,6 +7,12 @@
 
 <h3> Em algumas Distros dão conflito ao utilizarem componentes da NVIDIA, o mais comum é o problema da LIB, que diz que não foi instalada, isso pode ser concertada voltando uma versão anterior do Drive da NVIDIA, ou caso persistir instalar a LIB que estarei disponibilizando no diretorio o famoso "the following i386 libraries are required". </h3>
 
-<h3> Muitos erros que os usuários cometem é apenas ir instalando o LOL pelo lutris sem instalar os pré requisitos como o zenity, colocarei o código a frente para caso seja o seu erro de compatibilidade </h3> 
+<h3> Muitos erros que os usuários cometem é apenas ir instalando o LOL pelo lutris sem instalar os pré requisitos como o zenity, colocarei o código a frente para caso seja o seu erro de compatibilidade, além de instalar os drivers da Vulkan</h3> 
 
 <h2> sudo apt install zenity openssl </h2>
+<h2> ls /usr/share/vulkan/icd.d/ </h2>
+
+<h3> Instalação </h3>
+<h2> Arch Linux|| AUR: leagueoflegends-git </h2>
+<h2> Ubuntu/Debian|| ./package.sh debian
+  sudo dpkg -i <deb_file> </h2>
