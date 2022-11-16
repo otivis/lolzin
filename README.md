@@ -1,5 +1,7 @@
 # <H1> Correção de alguns erros da instalação do LOL usando o WINE em sistemas Linux </h1>
 
+</h2> Esse repositório é uma ajuda não só a quem está instalando pela primeira vez, mas para quem tem erros bem específicos, usei como referência o repositório do github.com/kyechou, que durante horas procurando algum tipo de ajuda o encontrei, estou fazendo isso para agilizar as resoluções de erros dos brasileiros ESSE ANO O HEXA VEM </h2> 
+
 <h3> Alguns erros que acontecem podem ocorrer pelo fato de sua maquina não responder algumas funções do WINE, pode ser resolvido facilmente mudando nas configurações pela própria plataforma que você baixou o game (Lutris, PlayONLinux e etc). Porém alguns erros bem específicos não conseguem ser resolvidos tão diretamente, para isso irei colocar uma série de correções que pode ser feito, além de commitar alguns arquivos que podem ser úteis no local do arquivo </h3>
 
 
